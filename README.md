@@ -15,7 +15,7 @@
 
 - [Laptop Repair Logbook](#) – https://github.com/gervaseburkett/laptop-repair-logbook
 - [Active Directory Study Notes](#) – My journey learning AD structure, user management, and GPOs
-- [Resume Site](#) – Personal portfolio site (hosted with GitHub Pages)
+- [Resume Site](#) – [Personal portfolio site (hosted with GitHub Pages)](https://github.com/gervaseburkett/Resume-Site/blob/main/README.md)
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/gervase-burkett-873b86186/
