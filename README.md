@@ -13,7 +13,7 @@
 
 ## 📂 Repositories
 
-- [Laptop Repair Logbook](#) – A log of hardware issues and repairs (coming soon)
+- [Laptop Repair Logbook](#) – https://github.com/gervaseburkett/laptop-repair-logbook
 - [Active Directory Study Notes](#) – My journey learning AD structure, user management, and GPOs
 - [Resume Site](#) – Personal portfolio site (hosted with GitHub Pages)
 
