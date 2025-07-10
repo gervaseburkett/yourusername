@@ -18,5 +18,6 @@
 - [Resume Site](#) – Personal portfolio site (hosted with GitHub Pages)
 
 ## 📫 Connect with me
-- LinkedIn: [linkedin.com/in/gervaseburkett](#)
+- LinkedIn: https://www.linkedin.com/in/gervase-burkett-873b86186/
 - Email: g.burkett2610@gmail.com
+- Contact 516-957-0427
